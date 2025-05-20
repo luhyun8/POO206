@@ -32,3 +32,26 @@ print(x,y,z)
 print(type(x))
 print(type(y))
 print(type(z))
+
+ # Solicitud de datos
+ a = input("ingrese algun dato: ")
+ b = Int(input("enter an integer:"))
+ c = float(input("enter a decimal:"))
+ print (a, b, c)
+ 
+ #4. Boolean,comparación y logica
+ print(10>9)
+print(10<9)
+print(10==9)
+print(10>=9)
+print(10<=9)
+print(10!=9)
+X= 1
+print (×<5 and x<10)
+print (×<5 or x<10)
+print (not (×<5 and x<10))
+ 					
+	
+					
+	
+ 					
