@@ -49,9 +49,4 @@ print(10!=9)
 X= 1
 print (×<5 and x<10)
 print (×<5 or x<10)
-print (not (×<5 and x<10))
- 					
-	
-					
-	
- 					
+print (not (×<5 and x<10))					
