@@ -1,9 +1,11 @@
+
 try:
-    numero= int(input("Introduce un número:"))
-    resultado =  10 / numero
-    
-    print("Resultado:", resultado)
-    
+    numero = int(input("Introduce un número:"))
+    resultado = 10 / numero
+
+
+print("Resultado:", resultado)
+
 except ValueError:
     print("Error:Se ingreso algo que no es un numero entero.")
 except ZeroDivisionError:
